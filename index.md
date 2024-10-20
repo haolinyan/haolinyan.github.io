@@ -10,8 +10,6 @@ Pursuing an AI Master's at Tsinghua University, specializing in the integration 
   <i class="fa fa-github"></i> <a href="http://github.com/haolinyan">haolinyan</a>
   |
   <i class="fa fa-envelope"></i> <a href="mailto:yhl23@mails.tsinghua.edu.cn">yhl23@mails.tsinghua.edu.cn</a>
-  |
-  <i class="fa fa-language"></i> <a href="./index_zh.html">中文</a>
 
 ## News
 **Congratulations! Our new in-network classification work, "LINC: Enabling Low-Resource In-Network Classification and Incremental Model Update," has been accepted by IEEE ICNP 2024.** The code is available at [https://github.com/haolinyan/LINC](https://github.com/haolinyan/LINC).

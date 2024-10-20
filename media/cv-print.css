@@ -55,7 +55,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 9pt;
-	line-height: 1.35em;
+	line-height: 1.6em;
 	font-family: "Open sans", sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 28%;
+	left: 15%;
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
 	width: 70%;
@@ -115,7 +115,7 @@ h1 {
 	font-size: 2.2em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 15%;
 }
 
 h1+p {
@@ -130,15 +130,15 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 1em;
+	margin-top: 1.5em;
 	position: relative;
-	top: 1.5em;
-	text-align: right;
-	width: 18%;
+	text-align: left;
+	width: 20%;
+	left: 15%;
 }
 
 h2+p {
-	margin-top: 2.1em;
+	margin-top: 1em;
 }
 
 h3 {

@@ -80,7 +80,7 @@ code {
 p code {
 	position: absolute;
 	left: 30%;
-	top: 6px; /* 调整这个值来控制向下位移的距离 */
+	top: 6px;
 }
 
 
@@ -140,12 +140,11 @@ h2 {
 	/* color: #a00; */
 	color: #1D49A0;
 	margin-top: 3em;
-	margin-bottom: 1em; /* 增加下外边距 */
+	margin-bottom: 1em;
 	position: relative;
-	/* top: 1.4em; */
 	text-align: left;
 	width: 15%;
-	left: 25%; 
+	left: 25%;
 }
 
 h3 {
