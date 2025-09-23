@@ -56,8 +56,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Haolin Yan (闫浩霖)",
 	bio: "清华男研、鹅厂实习生、电梯歌王、追剧狂魔",
-	links: [
-	],
+	links: [],
 };
 
 export const licenseConfig: LicenseConfig = {
